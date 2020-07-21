@@ -10,7 +10,7 @@ Have a look at our [wiki](https://github.com/McGill-ECSE321-Winter2020/project-g
 
 ## Team Members
 
-Below can be found the time spent in hours by each team member on each sprint. Please refer to the specific sprint for details on the work done. 
+Below can be found the time spent in hours by each team member on each sprint. Please refer to the specific sprint for details on the work done. Although the project was cut short due to COVID-19, the majority of the work was completed.
 
 | Name  | Role | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 |
 | ----- | ----- | :-----: | :-----: | :-----: | :-----: |
